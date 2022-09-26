@@ -25,4 +25,4 @@ düşebilir.
 ## **Son söz ve Kaynakça**
 -----------------------
 Beni buraya kadar okuduğunuz için teşekkür ederim, benim yararlandığım kaynakları görmek ve daha fazla okuma yapmak için bakabilirsiniz;
-[Patika.dev](https://app.patika.dev/courses/veri-bilimine-giris) , [statice.ai](https://www.statice.ai/post/data-bias-types#:~:text=Bias%20in%20data%20is%20an,systematic%20prejudice%2C%20and%20low%20accuracy , [bmc.com](https://www.bmc.com/blogs/bias-variance-machine-learning/#:~:text=What%20is%20bias%20in%20machine,assumptions%20in%20the%20ML%20process.)
+[Patika.dev](https://app.patika.dev/courses/veri-bilimine-giris) , [statice.ai](https://www.statice.ai/post/data-bias-types#:~:text=Bias%20in%20data%20is%20an,systematic%20prejudice%2C%20and%20low%20accuracy) , [bmc.com](https://www.bmc.com/blogs/bias-variance-machine-learning/#:~:text=What%20is%20bias%20in%20machine,assumptions%20in%20the%20ML%20process.)
